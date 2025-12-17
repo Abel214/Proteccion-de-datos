@@ -1,0 +1,37 @@
+ BASE DE DATOS - NOTAS DE ESTUDIANTES
+===========================================
+
+ID: 001
+Nombre: Juan Pérez García
+Materia: Matemáticas
+Nota: 85
+Fecha: 2024-12-15
+
+ID: 002
+Nombre: María López Rodríguez
+Materia: Programación
+Nota: 92
+Fecha: 2024-12-15
+
+ID: 003
+Nombre: Carlos Sánchez Mora
+Materia: Base de Datos
+Nota: 78
+Fecha: 2024-12-15
+
+ID: 004
+Nombre: Ana Martínez Torres
+Materia: Redes
+Nota: 88
+Fecha: 2024-12-15
+
+ID: 005
+Nombre: Luis Gómez Vega
+Materia: Seguridad Informática
+Nota: 95
+Fecha: 2024-12-15
+
+===========================================
+Promedio General: 87.6
+Última Actualización: 2024-12-15
+===========================================
